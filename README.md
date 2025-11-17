@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudano na graduação de Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
-- 🌱 Aprendendo mais sobre Python, Numpy, django, Typescript e Angular.
+- 🌱 Aprendendo mais sobre Python, Numpy, Django, Typescript e Angular.
 
 ## Minhas Skills
 
@@ -54,4 +54,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-gabriellcarvallho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-pereira-de-carvalho-6710802ab/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielwastowski2@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielwastowski2@gmail.com)](mailto:gabrielwastowski2@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/GabriellCarvallho))
+[![GitHub](https://img.shields.io/github/gabriellcarvallho/?label=follow&style=social)]((https://github.com/GabriellCarvallho))
