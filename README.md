@@ -3,9 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando {Sistemas para Internet} no {Instituto Federal de Educação, Ciência e Tecnologia da Paraíba}.
+- 🌱 Aprendendo mais sobre {python, numpy, django, typescript e angular}.
 
 ## Minhas Skills
 
@@ -53,6 +52,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-pereira-de-carvalho-6710802ab/)
+[![Linkedin](https://img.shields.io/badge/-gabriellcarvallho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-pereira-de-carvalho-6710802ab/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielwastowski2@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielwastowski2@gmail.com)](mailto:gabrielwastowski2@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/GabriellCarvallho))
