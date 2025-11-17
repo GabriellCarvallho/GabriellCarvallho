@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Sistemas para Internet} no {Instituto Federal de Educação, Ciência e Tecnologia da Paraíba}.
-- 🌱 Aprendendo mais sobre {python, numpy, django, typescript e angular}.
+- 🎓 Estudano na graduação de Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
+- 🌱 Aprendendo mais sobre Python, Numpy, django, Typescript e Angular.
 
 ## Minhas Skills
 
@@ -47,7 +47,7 @@
 <br/>
 
 <a href="https://github.com/gabriellcarvallho" title="Perfil do Gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel Carvalho&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellcarvallho&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
