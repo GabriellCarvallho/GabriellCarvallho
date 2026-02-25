@@ -1,57 +1,74 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=gabriellcarvallho&color=006bed)
 
-## Sobre mim
+# Gabriel Carvalho
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudano na graduação de Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.
-- 🌱 Aprendendo mais sobre Python, Numpy, Django, Typescript e Angular.
+💻 Data Engineering & Software Development Student  
+🎓 Sistemas para Internet  
+📍 Brasil
 
-## Minhas Skills
+---
 
-**Aplicações e dados**
+## 🚀 Sobre mim
 
+Sou estudante de **Sistemas para Internet**, focado em desenvolvimento **de Software** e **Engenharia de Dados**, construindo projetos práticos para ganhar experiência real de mercado.
 
+Atualmente estou:
 
+- Explorando tecnologias de **dados e desenvolviemtno de software**
+- Desenvolvendo projetos para portfólio no GitHub
+- Aprendendo **Python**, **SQL**, **APIs** e **pipelines de dados**
+- Estudando frameworks modernos para desenvolvimento web
+
+---
+
+## 🧠 Tecnologias e Skills
+
+### Aplicações e Dados
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 
-**Frameworks e bibliotecas**
-
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
+### Frameworks e Bibliotecas
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat)
 
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
+### Ferramentas
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
-**Ferramentas de desenvolvimento**
+### Ferramentas de Desenvolvimento
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
 
-<br/>
+## 📊 Projetos em destaque
 
-<a href="https://github.com/gabriellcarvallho" title="Perfil do Gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellcarvallho&theme=dracula&show_icons=true" />
+
+---
+
+## 📈 Estatísticas
+
+<a href="https://github.com/gabriellcarvallho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellcarvallho&theme=dracula&show_icons=true"/>
 </a>
 
-## Onde me encontrar
+---
 
-[![Linkedin](https://img.shields.io/badge/-gabriellcarvallho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-pereira-de-carvalho-6710802ab/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielwastowski2@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielwastowski2@gmail.com)](mailto:gabrielwastowski2@gmail.com)
-[![GitHub](https://img.shields.io/github/gabriellcarvallho/?label=follow&style=social)]((https://github.com/GabriellCarvallho))
+## 📫 Contato
+
+[![Linkedin](https://img.shields.io/badge/-Gabriel%20Carvalho-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-pereira-de-carvalho-6710802ab/)
+
+[![Gmail](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielwastowski2@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/-gabriellcarvallho-000?style=flat-square&logo=github)](https://github.com/gabriellcarvallho)
+
+---
+
+⭐ Sempre aprendendo e construindo projetos práticos para evoluir na área de tecnologia.
