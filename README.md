@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 👋 Olá, eu sou Gabriel Carvalho!
 
 <p align="center">
