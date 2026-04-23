@@ -67,12 +67,5 @@ Plataforma de produtividade para estudantes com cronograma e anotações.
   <sub>Project by Gabriel Carvalho • 2026</sub>
 </p>
 =======
-# 👋 Hello, I'm Gabriel Carvalho
 
-💻 Backend Developer (Python / Django)  
-🎓 Systems Development Student  
-📍 Brazil  
-📍 Joao Pessoa/Paraíba
-
----
 
